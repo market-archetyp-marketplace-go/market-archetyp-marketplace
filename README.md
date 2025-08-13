@@ -62,4 +62,6 @@ This guide is intended solely for educational purposes. The information is prese
 
 
 
-Update:  04 August 2025
+
+
+Update:  13.08.2025 Fantastic! The link is now responsive and working.
