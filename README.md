@@ -66,4 +66,6 @@ This guide is intended solely for educational purposes. The information is prese
 
 
 
-Update:  19.08.2025 url is now responsive and live
+
+
+Update:  08/23/2025 Internal navigation
