@@ -68,4 +68,6 @@ This guide is intended solely for educational purposes. The information is prese
 
 
 
-Update:  08/23/2025 Internal navigation
+
+
+Update:  12.09.2025
